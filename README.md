@@ -1,6 +1,5 @@
 # TURF-BOOKING-WEBSITE
-Web site made with PHP,HTML,CSS,JAVASCRIPT
-Sure, here’s a brief description of each file:
+Web site made with PHP,HTML,CSS,JAVASCRIPT,MYSQL DATABASE
 
 ### 1. `login_interface.php`
 
@@ -49,4 +48,3 @@ Sure, here’s a brief description of each file:
   - Handles connection errors using a try-catch block.
   - If the connection fails, it prints an error message.
 
-Let me know if you need any more details or explanations!
